@@ -1,6 +1,6 @@
-<h1>######################## liri-node-app #########################</h1>
+<h1>########## liri-node-app ###########</h1>
 <h2>1. Problem Definition</h2>
-   <h3> This node app solves 3 distinct problems<h3>
+   <h3> This node app solves 3 distinct problems</h3>
    <h3> a) Search spotify to return information about a song that is typed in the console</h3>
    <h3> b) Search OMDB to return information about a movie that is typed <h3>in the console</h3>
    <h3> c) Search either a song or a movie using a data file if no search input is provided by first generating a random number</h3>
@@ -18,7 +18,7 @@
 <h2>4. Screenshots, gifs or videos of the app functioning</h2>
    <h3>a) See github for it</h3>
 <h2>5. Link to a deployed version of the app</h2>
-   <h3>a) Link to run the node app:</h3>
+   <h3>a) Link to run the node app: https://github.com/patrickvenkat/liri-node-app</h3>
 <h2>6. List the technologies used in the app</h2>
    <h3>a) Packages: Spotify Node API, OMBD node API, File System, Axios, Moment, dotenv.</h3>
    <h3>b) Files: .gitignore to store links to the key files. Key and env files to protect client ID and Secret from pushing up to GitHub.</h3>

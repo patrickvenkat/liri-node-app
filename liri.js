@@ -214,7 +214,10 @@ function searchForRandomSongorMovie(){
     var dataArr = data.split(",");
 
     // Loop through the array to execute the request
-    console.log(`You didnt enter a movie or a song. So, the app will random pick a movie or a song for you`);
+    console.log(`You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you`);
+    dataForFile =`
+    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you`;
+    appendToLogFile(dataForFile);
     let randomSongOrMovie = Math.floor(Math.random() * dataArr.length);
 
     if (randomSongOrMovie % 2 != 0){
