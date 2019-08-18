@@ -26,7 +26,6 @@ function searchSpotify(songName){
   // Make a request to Spotify
   spotify.search({type: 'track', query: songName})
     .then(function (spotifyData) {
-      console.log(spotifyData.tracks.total);
       if (spotifyData.tracks.total != 0){
         console.log(`
         **********Information is below for your song, ${spotifyData.tracks.items[0].name} *************
@@ -56,6 +55,10 @@ function searchSpotify(songName){
         `
         appendToLogFile(dataForFile);
       } else{
+        console.log(`
+      **********Information is below for your song, ${songName} *************
+        Sorry! Song not found!
+        `);
         let dataForFile = `
       **********Information is below for your song, ${songName} *************
         Sorry! Song not found!
@@ -131,6 +134,10 @@ function searchMovie(movieName){
         `
         appendToLogFile(dataForFile);
       } else{
+        console.log(`
+        **********Information is below for your movie, ${movieName} *************
+          Sorry! ${response.data.Error}
+        `);
         let dataForFile = `
         **********Information is below for your movie, ${movieName} *************
           Sorry! ${response.data.Error}
@@ -167,6 +174,9 @@ if (process.argv[2] == "do-what-it-says"){
     // Call the searchMovie function
     doWhatItSays();
   }
+  else if(process.argv.length <= 2){
+    searchForRandomSongorMovie();
+  }
 // End: Process the command line input for do-what-it-says****************
 
 // Start: File read and processing function block of code*****************
@@ -179,9 +189,44 @@ function doWhatItSays(){
     // Then split it by commas to make it more readable and create an array
     var dataArr = data.split(",");
     // Loop through the array to execute the request
-    if (dataArr[0] == "spotify-this-song"){
-      searchSpotify(dataArr[1]);
+    for (n=0; n<dataArr.length; n++){
+      if (dataArr[n] == "spotify-this-song"){
+        searchSpotify(dataArr[n+1]);
+      }else if (dataArr[n] == "movie-this"){
+        searchMovie(dataArr[n+1]);
+      }
     }
+    // if (dataArr[0] == "spotify-this-song"){
+    //   searchSpotify(dataArr[1]);
+    // }
+  });
+}
+// End: File read and processing function block of code*******************
+
+// Start: File read and processing random movie or song block of code*****************
+function searchForRandomSongorMovie(){
+  fs.readFile("random.txt", "utf8", function(error, data) {
+    // Log the error to the console in case there is an error.
+    if (error) {
+      return console.log(error);
+    }
+    // Then split it by commas to make it more readable and create an array
+    var dataArr = data.split(",");
+
+    // Loop through the array to execute the request
+    console.log(`You didnt enter a movie or a song. So, the app will random pick a movie or a song for you`);
+    let randomSongOrMovie = Math.floor(Math.random() * dataArr.length);
+
+    if (randomSongOrMovie % 2 != 0){
+      randomSongOrMovie --;
+    } 
+  
+    if (dataArr[randomSongOrMovie] == "spotify-this-song"){
+      searchSpotify(dataArr[randomSongOrMovie + 1]);
+    } else if (dataArr[randomSongOrMovie] == "movie-this"){
+      searchMovie(dataArr[randomSongOrMovie + 1]);
+    }             
+
   });
 }
 // End: File read and processing function block of code*******************

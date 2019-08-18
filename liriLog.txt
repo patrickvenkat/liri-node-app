@@ -1,0 +1,53 @@
+
+        **********Information is below for your song, I Want It That Way *************
+          Artist 1----------: Backstreet Boys
+          The song's name---: I Want It That Way
+          The preview URL---: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: The Hits--Chapter One
+        
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+        **********Information is below for your movie, frozen  *************
+          The movie title is----------------------:Frozen
+          The Year the movie came out-------------:2013
+          The Rotten Tomatoes rating of the movie-:90%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English, Norwegian
+          The Plot of the movie-------------------:When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+          The Actors in the movie-----------------:Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+          The IMDB rating of the movie------------:7.5
+        
+        **********Information is below for your song, Let It Go - From "Frozen"/Soundtrack Version *************
+          Artist 1----------: Idina Menzel
+          The song's name---: Let It Go - From "Frozen"/Soundtrack Version
+          The preview URL---: null
+          The album name----: Frozen (Original Motion Picture Soundtrack / Deluxe Edition)
+        
