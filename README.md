@@ -1,7 +1,7 @@
 <h1>########## liri-node-app ###########</h1>
 <h2>1. Problem Definition</h2>
-   <h3>This node app solves 3 distinct problems</h3>
-   a) Search spotify to return information about a song that is typed in the console
+   <p>This node app solves 3 distinct problems</p>
+   <p>a) Search spotify to return information about a song that is typed in the console</p>
    b) Search OMDB to return information about a movie that is typed in the console
    c) Search either a song or a movie using a data file if no search input is provided by first generating a random number
 <h2>2. High-level overview of how the app is organized</h2>
