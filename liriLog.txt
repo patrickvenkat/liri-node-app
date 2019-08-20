@@ -83,3 +83,336 @@
         **********Information is below for your movie, frozenasdfasfdsafd  *************
           Sorry! Movie not found!
         
+    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you
+        **********Information is below for your song, Let It Go - From "Frozen"/Soundtrack Version *************
+          Artist 1----------: Idina Menzel
+          The song's name---: Let It Go - From "Frozen"/Soundtrack Version
+          The preview URL---: null
+          The album name----: Frozen (Original Motion Picture Soundtrack / Deluxe Edition)
+        
+    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you
+        **********Information is below for your song, I Want It That Way *************
+          The song's name---: I Want It That Way
+          The preview URL---: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: The Hits--Chapter One
+        
+          Artist 1----------: Backstreet Boys
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, I Want It That Way *************
+          The song's name---: I Want It That Way
+          The preview URL---: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: The Hits--Chapter One
+        
+          Artist 1----------: Backstreet Boys
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, Let It Go - From "Frozen"/Soundtrack Version *************
+          The song's name---: Let It Go - From "Frozen"/Soundtrack Version
+          The preview URL---: null
+          The album name----: Frozen (Original Motion Picture Soundtrack / Deluxe Edition)
+        
+          Artist 1----------: Idina Menzel
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, troy *************
+          The movie title is----------------------:Troy
+          The Year the movie came out-------------:2004
+          The Rotten Tomatoes rating of the movie-:54%
+          The Country where the movie was produced:USA, Malta, UK
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+          The Actors in the movie-----------------:Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+          The IMDB rating of the movie------------:7.2
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, ghost *************
+          The movie title is----------------------:Ghost
+          The Year the movie came out-------------:1990
+          The Rotten Tomatoes rating of the movie-:74%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
+          The Actors in the movie-----------------:Patrick Swayze, Demi Moore, Tony Goldwyn, Stanley Lawrence
+          The IMDB rating of the movie------------:7.0
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, hollywood *************
+          The movie title is----------------------:Hollywood Homicide
+          The Year the movie came out-------------:2003
+          The Rotten Tomatoes rating of the movie-:29%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.
+          The Actors in the movie-----------------:Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood
+          The IMDB rating of the movie------------:5.3
+        
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, Let It Go - From "Frozen"/Soundtrack Version *************
+          Artist 1----------: Idina Menzel
+          The song's name---: Let It Go - From "Frozen"/Soundtrack Version
+          The preview URL---: null
+          The album name----: Frozen (Original Motion Picture Soundtrack / Deluxe Edition)
+        
+    You didnt enter a movie. So, the app will randomly pick a movie for you
+        **********Information is below for your movie, raging bull *************
+          The movie title is----------------------:Raging Bull
+          The Year the movie came out-------------:1980
+          The Rotten Tomatoes rating of the movie-:96%
+          The Country where the movie was produced:USA
+          The Language of the movie---------------:English
+          The Plot of the movie-------------------:The life of boxer Jake LaMotta, who's violence and temper that lead him to the top in the ring destroyed his life outside of it.
+          The Actors in the movie-----------------:Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent
+          The IMDB rating of the movie------------:8.2
+        
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, Payphone - Karaoke Version iOriginally Performed by Maroon5 *************
+          The song's name---: Payphone - Karaoke Version iOriginally Performed by Maroon5
+          The preview URL---: https://p.scdn.co/mp3-preview/05f75658583c476d763877c82bd327735bd9575d?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: Sing the Summer Hits 2012 (Verano, Verão, Été, Estate)
+        
+          Artist 1----------: Gynmusic Studios
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, I Want It That Way *************
+          The song's name---: I Want It That Way
+          The preview URL---: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: The Hits--Chapter One
+        
+          Artist 1----------: Backstreet Boys
+    You didnt enter a song. So, the app will randomly pick a song for you
+        **********Information is below for your song, Mambo No. 5 (a Little Bit of...) *************
+          Artist 1----------: Lou Bega
+          The song's name---: Mambo No. 5 (a Little Bit of...)
+          The preview URL---: https://p.scdn.co/mp3-preview/9d4b70e65834b7f7f78e42d1cfc070c827ab0951?cid=ba3d335b6e9f4069b6dd0ea2489fa75d
+          The album name----: A Little Bit of Mambo
+        

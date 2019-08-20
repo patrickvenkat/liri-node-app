@@ -13,12 +13,16 @@ let spotify = new Spotify(keys.spotify);
 let songName = "";
 //Take input from the command line and display information about the song
 if (process.argv[2] == "spotify-this-song") {
+  if (process.argv.length >=4){
     for (i=3; i<process.argv.length; i++){
-        songName += process.argv[i] + " ";
+      songName += process.argv[i] + " ";
     }
-    //Call the search song function.
-    searchSpotify(songName);
+  //Call the search song function.
+  searchSpotify(songName);
+  }else {
+    searchForRandomSong();
   }
+}
 // End: Process the command line input for song search****************
 
 //Start: Song search function block of code**************************
@@ -95,12 +99,17 @@ let movieName = "";
 //Take input from the command line and display information about the movie
 // Note: The movie can be any number of words and code will still be able to process it.
 if (process.argv[2] == "movie-this") {
+  if (process.argv.length >=4){
     for (i=3; i<process.argv.length; i++){
-        movieName += process.argv[i] + " ";
+      movieName += process.argv[i] + " ";
     }
-    // Call the searchMovie function
-    searchMovie(movieName);
+  // Call the searchMovie function
+  searchMovie(movieName);
+  }else{
+    searchForRandomMovie();
   }
+
+}    
 // End: Process the command line input for movie search*************
 
 //Start: Movie search function block of code**************************
@@ -175,13 +184,13 @@ if (process.argv[2] == "do-what-it-says"){
     doWhatItSays();
   }
   else if(process.argv.length <= 2){
-    searchForRandomSongorMovie();
+    searchForRandomSong();
   }
 // End: Process the command line input for do-what-it-says****************
 
 // Start: File read and processing function block of code*****************
 function doWhatItSays(){
-  fs.readFile("random.txt", "utf8", function(error, data) {
+  fs.readFile("randomMovie.txt", "utf8", function(error, data) {
     // Log the error to the console in case there is an error.
     if (error) {
       return console.log(error);
@@ -196,16 +205,13 @@ function doWhatItSays(){
         searchMovie(dataArr[n+1]);
       }
     }
-    // if (dataArr[0] == "spotify-this-song"){
-    //   searchSpotify(dataArr[1]);
-    // }
   });
 }
 // End: File read and processing function block of code*******************
 
-// Start: File read and processing random movie or song block of code*****************
-function searchForRandomSongorMovie(){
-  fs.readFile("random.txt", "utf8", function(error, data) {
+// Start: File read and processing random song block of code*****************
+function searchForRandomSong(){
+  fs.readFile("randomSong.txt", "utf8", function(error, data) {
     // Log the error to the console in case there is an error.
     if (error) {
       return console.log(error);
@@ -214,9 +220,9 @@ function searchForRandomSongorMovie(){
     var dataArr = data.split(",");
 
     // Loop through the array to execute the request
-    console.log(`You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you`);
+    console.log(`You didnt enter a song. So, the app will randomly pick a song for you`);
     dataForFile =`
-    You didnt enter a movie or a song. So, the app will randomly pick a movie or a song for you`;
+    You didnt enter a song. So, the app will randomly pick a song for you`;
     appendToLogFile(dataForFile);
     let randomSongOrMovie = Math.floor(Math.random() * dataArr.length);
 
@@ -226,13 +232,41 @@ function searchForRandomSongorMovie(){
   
     if (dataArr[randomSongOrMovie] == "spotify-this-song"){
       searchSpotify(dataArr[randomSongOrMovie + 1]);
-    } else if (dataArr[randomSongOrMovie] == "movie-this"){
-      searchMovie(dataArr[randomSongOrMovie + 1]);
-    }             
-
+    }
   });
 }
-// End: File read and processing function block of code*******************
+// End: File read and processing random song block of code*****************
+
+
+// Start: File read and processing random movie block of code*****************
+function searchForRandomMovie(){
+  fs.readFile("randomMovie.txt", "utf8", function(error, data) {
+    // Log the error to the console in case there is an error.
+    if (error) {
+      return console.log(error);
+    }
+    // Then split it by commas to make it more readable and create an array
+    var dataArr = data.split(",");
+
+    // Loop through the array to execute the request
+    console.log(`You didnt enter a movie. So, the app will randomly pick a movie for you`);
+    dataForFile =`
+    You didnt enter a movie. So, the app will randomly pick a movie for you`;
+    appendToLogFile(dataForFile);
+    let randomSongOrMovie = Math.floor(Math.random() * dataArr.length);
+
+    if (randomSongOrMovie % 2 != 0){
+      randomSongOrMovie --;
+    } 
+  
+    if (dataArr[randomSongOrMovie] == "movie-this"){
+      searchMovie(dataArr[randomSongOrMovie + 1]);
+    }             
+  });
+}
+// End: File read and processing random movie block of code*****************
+
+
 
 // Start: Write to log file processing function block of code*************
 function appendToLogFile(textInput){
